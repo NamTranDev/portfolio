@@ -94,9 +94,15 @@
   "resume_title": "Work Experience",
   "experience": [
     {
+      "company": "NAVER",
+      "role": "Mobile Engineer",
+      "date": "Jul 2026 - Present",
+      "description": "Develop features for LINE WORKS, an enterprise collaboration app built on a large multi-module, multi-flavor Kotlin codebase that ships five products from a single project. Work across UI, ViewModel, persistence and API layers with Hilt, Coroutines and RxJava, keep client-server contracts backward compatible, and improve quality through unit testing and AI-assisted test automation."
+    },
+    {
       "company": "FUNiX",
       "role": "Technical Mentor",
-      "date": "Dec 2022 - Present",
+      "date": "Dec 2022 - Sep 2026",
       "description": "Mentor learners in software development through code reviews, technical guidance, and project support, helping them strengthen programming fundamentals and problem-solving skills."
     },
     {
@@ -109,7 +115,7 @@
     {
       "company": "Timo Vietnam JSC",
       "role": "Android Engineer",
-      "date": "Aug 2021 - Present",
+      "date": "Aug 2021 - Jun 2026",
       "description": "Develop and maintain core features for a digital banking application, including onboarding, account services, in-app chat, QR code flows, NFC payments, split bills, and money pots. Led the migration from MVP to MVVM and supported modularization efforts to improve code quality, maintainability, and scalability."
     },
     {
