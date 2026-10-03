@@ -94,9 +94,15 @@
   "resume_title": "Kinh nghiệm làm việc",
   "experience": [
     {
+      "company": "NAVER",
+      "role": "Kỹ sư Ứng Dụng Di Động",
+      "date": "07/2026 - Nay",
+      "description": "Phát triển tính năng cho LINE WORKS, ứng dụng cộng tác doanh nghiệp xây dựng trên codebase Kotlin lớn gồm nhiều module và nhiều flavor, phát hành năm sản phẩm từ một project duy nhất. Làm việc xuyên suốt các tầng UI, ViewModel, lưu trữ và API với Hilt, Coroutines và RxJava, đảm bảo tương thích ngược giữa client và server, nâng cao chất lượng bằng unit test và tự động hóa kiểm thử với AI."
+    },
+    {
       "company": "FUNiX",
       "role": "Mentor kỹ thuật",
-      "date": "12/2022 - Nay",
+      "date": "12/2022 - 09/2026",
       "description": "Hướng dẫn học viên phát triển phần mềm thông qua review code, tư vấn kỹ thuật và hỗ trợ dự án, giúp củng cố nền tảng lập trình và kỹ năng giải quyết vấn đề."
     },
     {
@@ -109,7 +115,7 @@
     {
       "company": "Timo Vietnam JSC",
       "role": "Kỹ sư Android",
-      "date": "08/2021 - Nay",
+      "date": "08/2021 - 06/2026",
       "description": "Phát triển và duy trì các tính năng cốt lõi cho ứng dụng ngân hàng số như onboarding, dịch vụ tài khoản, chat nội bộ, QR code, thanh toán NFC, chia hóa đơn và quản lý quỹ. Dẫn dắt quá trình migrate từ MVP sang MVVM và hỗ trợ modularization nhằm nâng cao chất lượng, khả năng bảo trì và mở rộng hệ thống."
     },
     {
