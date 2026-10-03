@@ -3,7 +3,7 @@
 A minimalist, high-fidelity personal portfolio showcasing a decade of expertise in scalable Android engineering and professional system architecture.
 
 ## 🚀 Live Demo
-- **URL**: [https://namtrandev.github.io/Portfolio/]
+- **URL**: [https://namtrandev.github.io/Portfolio/](http://namtrandev.github.io/portfolio/)
 
 ---
 
